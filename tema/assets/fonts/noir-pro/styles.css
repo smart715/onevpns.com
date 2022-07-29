@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'NoirPro';
+  src: url('NoirPro-Lightd41d.eot?#iefix') format('embedded-opentype'),
+  url('NoirPro-Light.html') format('woff'),
+  url('NoirPro-Light-2.html') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NoirPro';
+  src: url('NoirPro-Regulard41d.eot?#iefix') format('embedded-opentype'),
+  url('NoirPro-Regular.html') format('woff'),
+  url('NoirPro-Regular-2.html') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NoirPro';
+  src: url('NoirPro-Mediumd41d.eot?#iefix') format('embedded-opentype'),
+  url('NoirPro-Medium.html') format('woff'),
+  url('NoirPro-Medium-2.html') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NoirPro';
+  src: url('NoirPro-SemiBoldd41d.eot?#iefix') format('embedded-opentype'),
+  url('NoirPro-SemiBold.html') format('woff'),
+  url('NoirPro-SemiBold-2.html') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NoirPro';
+  src: url('NoirPro-Boldd41d.eot?#iefix') format('embedded-opentype'),
+  url('NoirPro-Bold.html') format('woff'),
+  url('NoirPro-Bold-2.html') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NoirPro';
+  src: url('NoirPro-Heavyd41d.eot?#iefix') format('embedded-opentype'),
+  url('NoirPro-Heavy.html') format('woff'),
+  url('NoirPro-Heavy-2.html') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+}
